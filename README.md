@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Okyere</h1>
-<h3 align="center">A passionate software engineer with focus on backend, cloud and cybersecurity from Ghana</h3>
+<h3 align="center">A passionate software engineer with experience and focus on blockchain, backend, cloud and cybersecurity from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhiskall282&label=Profile%20views&color=0e75b6&style=flat" alt="mhiskall282" /> </p>
 
