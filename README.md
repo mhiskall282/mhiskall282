@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">John Okyere</span></h1>
+<h1 align="center">👋 Hey there, Welcome <span style="color:#0078ff;">to my Portfolio</span></h1>
 <h3 align="center">🚀 Software Engineer | Blockchain • Cloud • Backend • Cybersecurity</h3>
 <h4 align="center">Building secure, scalable, and decentralized solutions from Ghana 🇬🇭</h4>
 
