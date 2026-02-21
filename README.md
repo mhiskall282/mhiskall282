@@ -254,10 +254,8 @@ I'm a passionate software engineer building solutions that merge **technology, i
 
 | 🎖️ Certification | 🏛️ Issuer | 📅 Year |
 |---|---|---|
-| AWS Certified Solutions Architect | Amazon Web Services | 2024 |
-| Google Cloud Professional Cloud Architect | Google Cloud | 2024 |
-| Certified Blockchain Developer | Blockchain Council | 2023 |
-| *(Add your own)* | | |
+| AWS Certified Cloud Professional | Amazon Web Services | 2024 |
+| Certified Blockchain Developer & Specialist |ICORBP | 2023 |
 
 ---
 
@@ -274,14 +272,12 @@ I'm a passionate software engineer building solutions that merge **technology, i
 
 ## 💼 Featured Projects
 
-> 🔧 *Replace these with your real projects!*
-
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🔗 DeFi Protocol</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project1">
+        <a href="https://github.com/mhiskall282/suipilot">
           <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
         </a>
         <a href="#">
@@ -348,10 +344,10 @@ Whether you're building the next DeFi protocol, a cloud-native product, or just 
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-A78BFA?style=for-the-badge)](https://johnokyere.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/📧%20Email-Say%20Hello-EA4335?style=for-the-badge)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Follow-1DA1F2?style=for-the-badge)](https://twitter.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-A78BFA?style=for-the-badge)](https://johnokyere.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/johnokyere)
+[![Email](https://img.shields.io/badge/📧%20Email-Say%20Hello-EA4335?style=for-the-badge)](mailto:0xmhiskall@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Follow-1DA1F2?style=for-the-badge)](https://twitter.com/0xmhiskall)
 
 </div>
 
