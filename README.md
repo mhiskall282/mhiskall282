@@ -230,16 +230,16 @@ I'm a passionate software engineer building solutions that merge **technology, i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhiskall282&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhiskall282&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhiskall282&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0f0c29&color=A78BFA&line=302b63&point=A78BFA&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhiskall282&bg_color=0f0c29&color=A78BFA&line=302b63&point=A78BFA&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -248,7 +248,7 @@ I'm a passionate software engineer building solutions that merge **technology, i
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6)](https://github.com/yourusername)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mhiskall282&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6)](https://github.com/mhiskall282)
 
 </div>
 
