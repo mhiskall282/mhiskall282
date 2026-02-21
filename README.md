@@ -102,15 +102,15 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-johnokyere.pages.dev-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)](https://johnokyere.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-johnokyere.pages.dev-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)](https://johnokyere.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnokyere)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xmhiskall@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xmhiskall)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=mhiskall282&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/mhiskall282?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
 
 </div>
 
@@ -125,7 +125,7 @@ const john: SoftwareEngineer = {
   role:       "Software Engineer",
   focus:      ["Blockchain", "Cloud Engineering", "Backend Systems", "Cybersecurity"],
   exploring:  ["Zero-Knowledge Proofs", "AI + Blockchain", "Microservice Architecture"],
-  portfolio:  "https://johnokyere.pages.dev",
+  portfolio:  "https://johnokyere.vercel.app",
   available:  true, // Open to opportunities!
   funFact:    "There are 10 types of people — those who understand binary and those who don't.",
 };
