@@ -22,7 +22,7 @@
 - AI + Blockchain integration  
 - Scalable microservice architectures  
 
-📄 Portfolio: [johnokyere.pages.dev](https://johnokyere.pages.dev)  
+📄 Portfolio: [johnokyere.xyz](https://johnokyere.xyz)  
 ⚡ Fun fact: *There are 10 types of people in the world — those who understand binary and those who don’t.*  
 
 ---
@@ -102,7 +102,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-johnokyere.pages.dev-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)](https://johnokyere.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-johnokyere.pages.dev-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)](https://johnokyere.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnokyere)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xmhiskall@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xmhiskall)
@@ -125,7 +125,7 @@ const john: SoftwareEngineer = {
   role:       "Software Engineer",
   focus:      ["Blockchain", "Cloud Engineering", "Backend Systems", "Cybersecurity"],
   exploring:  ["Zero-Knowledge Proofs", "AI + Blockchain", "Microservice Architecture"],
-  portfolio:  "https://johnokyere.vercel.app",
+  portfolio:  "https://johnokyere.xyz",
   available:  true, // Open to opportunities!
   funFact:    "There are 10 types of people — those who understand binary and those who don't.",
 };
