@@ -1,38 +1,34 @@
 <div align="center">
 
 <!-- Cyberpunk style waving capsule header banner with twinkling animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=JOHN%20%E2%98%A1%20OKYERE&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=SYSTEMS%20%E2%80%A2%20BLOCKCHAIN%20%E2%80%A2%20CYBERSECURITY&descAlignY=58&descSize=16&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=JOHN%20%E2%9A%A1%20OKYERE&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=SYSTEMS%20%E2%80%A2%20BLOCKCHAIN%20%E2%80%A2%20CYBERSECURITY&descAlignY=58&descSize=16&animation=twinkling" />
 
 <br/>
 
-<!-- Custom Cyberpunk Animated SVG status bar ( Ghana Flag Neon Colors ) -->
+<!-- Custom Cyberpunk Animated SVG status bar ( Ghana Flag Neon Colors - Inline SMIL Animations ) -->
 <svg width="100%" height="80" viewBox="0 0 800 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .glow-red { stroke: #D21034; filter: drop-shadow(0px 0px 5px #D21034); }
-    .glow-gold { stroke: #FCD116; filter: drop-shadow(0px 0px 5px #FCD116); }
-    .glow-green { stroke: #006B3F; filter: drop-shadow(0px 0px 5px #006B3F); }
-    .text-cyber { font-family: 'Courier New', monospace; font-weight: bold; fill: #ffffff; }
-    .blink { animation: blinker 1.5s linear infinite; }
-    @keyframes blinker { 50% { opacity: 0; } }
-  </style>
   <!-- Grid pattern backplate -->
   <path d="M 0,40 L 800,40 M 150,0 L 150,80 M 650,0 L 650,80" stroke="#1c1c24" stroke-width="1" stroke-dasharray="6,6"/>
   
   <!-- Cyber borders in red, gold, green -->
-  <path d="M 10,15 L 140,15 L 150,25 L 650,25 L 660,15 L 790,15" class="glow-red" stroke-width="2" fill="none"/>
-  <path d="M 10,65 L 140,65 L 150,55 L 650,55 L 660,65 L 790,65" class="glow-green" stroke-width="2" fill="none"/>
+  <path d="M 10,15 L 140,15 L 150,25 L 650,25 L 660,15 L 790,15" stroke="#D21034" stroke-width="2" fill="none"/>
+  <path d="M 10,65 L 140,65 L 150,55 L 650,55 L 660,65 L 790,65" stroke="#006B3F" stroke-width="2" fill="none"/>
   
-  <path d="M 5,25 L 5,5 L 25,5" class="glow-gold" stroke-width="3" fill="none"/>
-  <path d="M 795,25 L 795,5 L 775,5" class="glow-gold" stroke-width="3" fill="none"/>
-  <path d="M 5,55 L 5,75 L 25,75" class="glow-gold" stroke-width="3" fill="none"/>
-  <path d="M 795,55 L 795,75 L 775,75" class="glow-gold" stroke-width="3" fill="none"/>
+  <path d="M 5,25 L 5,5 L 25,5" stroke="#FCD116" stroke-width="3" fill="none"/>
+  <path d="M 795,25 L 795,5 L 775,5" stroke="#FCD116" stroke-width="3" fill="none"/>
+  <path d="M 5,55 L 5,75 L 25,75" stroke="#FCD116" stroke-width="3" fill="none"/>
+  <path d="M 795,55 L 795,75 L 775,75" stroke="#FCD116" stroke-width="3" fill="none"/>
   
-  <!-- Glowing blinking state modules -->
-  <circle cx="180" cy="40" r="4.5" fill="#006B3F" class="blink"/>
-  <text x="195" y="45" class="text-cyber" font-size="13" letter-spacing="1">GHANA_NODE: ONLINE</text>
+  <!-- Glowing blinking state modules using SMIL animations -->
+  <circle cx="180" cy="40" r="4.5" fill="#006B3F">
+    <animate attributeName="opacity" values="1;0.1;1" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+  <text x="195" y="45" fill="#ffffff" font-family="Courier New, monospace" font-weight="bold" font-size="13" letter-spacing="1">GHANA_NODE: ONLINE</text>
   
-  <circle cx="500" cy="40" r="4.5" fill="#D21034" class="blink"/>
-  <text x="515" y="45" class="text-cyber" font-size="13" letter-spacing="1">SECURE: ACCRA_01</text>
+  <circle cx="500" cy="40" r="4.5" fill="#D21034">
+    <animate attributeName="opacity" values="1;0.1;1" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+  <text x="515" y="45" fill="#ffffff" font-family="Courier New, monospace" font-weight="bold" font-size="13" letter-spacing="1">SECURE: ACCRA_01</text>
 </svg>
 
 <br/>
@@ -43,10 +39,10 @@
 <br/>
 
 <!-- Ghana Flag colored Shields.io buttons -->
-[![Portfolio](https://img.shields.io/badge/𝐉𝐎𝐇𝐍𝐎𝐊𝐘𝐄𝐑𝐄.𝐗𝐘𝐙-D21034?style=for-the-badge&logo=cloudflare&logoColor=white)](https://johnokyere.xyz)
-[![LinkedIn](https://img.shields.io/badge/💼_𝐋𝐈𝐍𝐊𝐄𝐃𝐈𝐍-006B3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnokyere)
-[![Email](https://img.shields.io/badge/📧_𝐄𝐌𝐀𝐈𝐋-FCD116?style=for-the-badge&logo=gmail&logoColor=black)](mailto:0xmhiskall@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦_𝐓𝐖𝐈𝐓𝐓𝐄𝐑-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xmhiskall)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D21034?style=for-the-badge&logo=cloudflare&logoColor=white)](https://johnokyere.xyz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-006B3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnokyere)
+[![Email](https://img.shields.io/badge/EMAIL-FCD116?style=for-the-badge&logo=gmail&logoColor=black)](mailto:0xmhiskall@gmail.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xmhiskall)
 
 <br/>
 
@@ -78,12 +74,12 @@ I am a software security engineer specialized in designing decentralized archite
 ## 💾 ASCII Name Visualizer
 
 ```text
-  ██████╗  ██████╗ ██╗  ██╗███╗   ██╗     ██████╗ ██╗  ██╗██╗   ██╗███████╗██████╗ ███████╗
-  ╚══██╔══╝██╔═══██╗██║  ██║████╗  ██║    ██╔═══██╗██║ ██╔╝╚██╗ ██╔╝██╔════╝██╔══██╗██╔════╝
-     ██║   ██║   ██║███████║██╔██╗ ██║    ██║   ██║█████╔╝  ╚████╔╝ █████╗  ██████╔╝█████╗  
-     ██║   ██║   ██║██╔══██║██║╚██╗██║    ██║   ██║██╔═██╗   ╚██╔╝  ██╔══╝  ██╔══██╗██╔══╝  
-     ██║   ╚██████╔╝██║  ██║██║ ╚████║    ╚██████╔╝██║  ██╗   ██║   ███████╗██║  ██║███████╗
-     ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝
+        ██╗  ██████╗  ██╗  ██╗ ███╗   ██╗      ██████╗  ██╗  ██╗ ██╗   ██╗ ███████╗ ██████╗  ███████╗
+        ██║ ██╔═══██╗ ██║  ██║ ████╗  ██║     ██╔═══██╗ ██║ ██╔╝ ╚██╗ ██╔╝ ██╔════╝ ██╔══██╗ ██╔════╝
+        ██║ ██║   ██║ ███████║ ██╔██╗ ██║     ██║   ██║ █████╔╝   ╚████╔╝  █████╗   ██████╔╝ █████╗  
+  ██    ██║ ██║   ██║ ██╔══██║ ██║╚██╗██║     ██║   ██║ ██╔═██╗    ╚██╔╝   ██╔══╝   ██╔══██╗ ██╔══╝  
+  ╚██████╔╝ ╚██████╔╝ ██║  ██║ ██║ ╚████║     ╚██████╔╝ ██║  ██╗    ██║    ███████╗ ██║  ██║ ███████╗
+   ╚═════╝   ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝      ╚═════╝  ╚═╝  ╚═╝    ╚═╝    ╚══════╝ ╚═╝  ╚═╝ ╚══════╝
 ```
 
 ---
@@ -206,10 +202,10 @@ Initiate protocol connection:
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎-𝐃𝟐𝟏𝟎𝟑𝟒?style=for-the-badge)](https://johnokyere.xyz)
-[![LinkedIn](https://img.shields.io/badge/💼_𝐋𝐈𝐍𝐊𝐄𝐃𝐈𝐍-𝟎𝟎𝟔𝐁𝟑𝐅?style=for-the-badge)](https://linkedin.com/in/johnokyere)
-[![Email](https://img.shields.io/badge/📧_𝐄𝐌𝐀𝐈𝐋-𝐅𝐂𝐃𝟏𝟏𝟔?style=for-the-badge&logoColor=black)](mailto:0xmhiskall@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦_𝐓𝐖𝐈𝐓𝐓𝐄𝐑-𝟎𝟎𝟎𝟎𝟎𝟎?style=for-the-badge)](https://twitter.com/0xmhiskall)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D21034?style=for-the-badge)](https://johnokyere.xyz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-006B3F?style=for-the-badge)](https://linkedin.com/in/johnokyere)
+[![Email](https://img.shields.io/badge/EMAIL-FCD116?style=for-the-badge)](mailto:0xmhiskall@gmail.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge)](https://twitter.com/0xmhiskall)
 
 <br/>
 
