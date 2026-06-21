@@ -1,107 +1,145 @@
 <div align="center">
 
-<!-- Waving Header Banner in Ghana Flag Colors (Red -> Gold -> Green) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=John%20Okyere&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Blockchain%20•%20Cloud%20•%20Cybersecurity&descAlignY=58&descSize=16&animation=fadeIn" />
+<!-- Cyberpunk style waving capsule header banner with twinkling animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=JOHN%20%E2%98%A1%20OKYERE&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=SYSTEMS%20%E2%80%A2%20BLOCKCHAIN%20%E2%80%A2%20CYBERSECURITY&descAlignY=58&descSize=16&animation=twinkling" />
 
 <br/>
 
-<!-- Typing SVG Animation in Gold -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FCD116&center=true&vCenter=true&width=600&lines=Building+Decentralized+Solutions+%F0%9F%94%97;Cloud+Engineer+%7C+AWS+%26+GCP+%E2%98%81%EF%B8%8F;Cybersecurity+%26+Contract+Auditing+%F0%9F%94%90;Empowering+Africa's+Tech+Future+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<!-- Custom Cyberpunk Animated SVG status bar ( Ghana Flag Neon Colors ) -->
+<svg width="100%" height="80" viewBox="0 0 800 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .glow-red { stroke: #D21034; filter: drop-shadow(0px 0px 5px #D21034); }
+    .glow-gold { stroke: #FCD116; filter: drop-shadow(0px 0px 5px #FCD116); }
+    .glow-green { stroke: #006B3F; filter: drop-shadow(0px 0px 5px #006B3F); }
+    .text-cyber { font-family: 'Courier New', monospace; font-weight: bold; fill: #ffffff; }
+    .blink { animation: blinker 1.5s linear infinite; }
+    @keyframes blinker { 50% { opacity: 0; } }
+  </style>
+  <!-- Grid pattern backplate -->
+  <path d="M 0,40 L 800,40 M 150,0 L 150,80 M 650,0 L 650,80" stroke="#1c1c24" stroke-width="1" stroke-dasharray="6,6"/>
+  
+  <!-- Cyber borders in red, gold, green -->
+  <path d="M 10,15 L 140,15 L 150,25 L 650,25 L 660,15 L 790,15" class="glow-red" stroke-width="2" fill="none"/>
+  <path d="M 10,65 L 140,65 L 150,55 L 650,55 L 660,65 L 790,65" class="glow-green" stroke-width="2" fill="none"/>
+  
+  <path d="M 5,25 L 5,5 L 25,5" class="glow-gold" stroke-width="3" fill="none"/>
+  <path d="M 795,25 L 795,5 L 775,5" class="glow-gold" stroke-width="3" fill="none"/>
+  <path d="M 5,55 L 5,75 L 25,75" class="glow-gold" stroke-width="3" fill="none"/>
+  <path d="M 795,55 L 795,75 L 775,75" class="glow-gold" stroke-width="3" fill="none"/>
+  
+  <!-- Glowing blinking state modules -->
+  <circle cx="180" cy="40" r="4.5" fill="#006B3F" class="blink"/>
+  <text x="195" y="45" class="text-cyber" font-size="13" letter-spacing="1">GHANA_NODE: ONLINE</text>
+  
+  <circle cx="500" cy="40" r="4.5" fill="#D21034" class="blink"/>
+  <text x="515" y="45" class="text-cyber" font-size="13" letter-spacing="1">SECURE: ACCRA_01</text>
+</svg>
 
 <br/>
 
-<!-- Social Badges styled with Ghana Flag Palette Colors -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-johnokyere.xyz-D21034?style=for-the-badge&logo=cloudflare&logoColor=white)](https://johnokyere.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-006B3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnokyere)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-FCD116?style=for-the-badge&logo=gmail&logoColor=black)](mailto:0xmhiskall@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xmhiskall)
+<!-- Typewriter animation terminal prompt in Ghana Gold -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FCD116&center=true&vCenter=true&width=600&lines=%3E_Building_Decentralized_Solutions;%3E_Cloud_Architect_%7C_AWS_%26_GCP;%3E_Cybersecurity_%26_Solidity_Auditor;%3E_Empowering_Africa%27s_Tech_Future)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhiskall282&style=for-the-badge&color=D21034&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/mhiskall282?style=for-the-badge&color=006B3F&labelColor=000000&label=FOLLOWERS)
+<!-- Ghana Flag colored Shields.io buttons -->
+[![Portfolio](https://img.shields.io/badge/𝐉𝐎𝐇𝐍𝐎𝐊𝐘𝐄𝐑𝐄.𝐗𝐘𝐙-D21034?style=for-the-badge&logo=cloudflare&logoColor=white)](https://johnokyere.xyz)
+[![LinkedIn](https://img.shields.io/badge/💼_𝐋𝐈𝐍𝐊𝐄𝐃𝐈𝐍-006B3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnokyere)
+[![Email](https://img.shields.io/badge/📧_𝐄𝐌𝐀𝐈𝐋-FCD116?style=for-the-badge&logo=gmail&logoColor=black)](mailto:0xmhiskall@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦_𝐓𝐖𝐈𝐓𝐓𝐄𝐑-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xmhiskall)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mhiskall282&style=for-the-badge&color=D21034&label=DECRYPT_REQUESTS)
+![GitHub followers](https://img.shields.io/github/followers/mhiskall282?style=for-the-badge&color=006B3F&labelColor=000000&label=CONNECTED_PEERS)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 System Profile
 
 ```typescript
-const john: SoftwareEngineer = {
-  name:       "John Okyere",
-  location:   "Ghana, West Africa 🇬🇭",
-  role:       "Software Engineer",
-  focus:      ["Blockchain Development", "Cloud Engineering", "SecOps"],
-  exploring:  ["Zero-Knowledge Proofs", "AI + Blockchain Integration", "Event Sourcing"],
-  portfolio:  "https://johnokyere.xyz",
-  available:  true, // Open to collaborate!
-  motto:      "Decentralizing the future, one block at a time."
+const systemConfig: DeveloperNode = {
+  alias:      "mhiskall282",
+  realName:   "𝐉𝐎𝐇𝐍 𝐎𝐊𝐘𝐄𝐑𝐄",
+  nodeCoord:  "Accra, Ghana 🇬🇭",
+  role:       "Systems & Smart Contract Auditor",
+  specialties: ["Ethereum Protocol & Solidity", "AWS & GCP Cloud Architecture", "Threat Modeling"],
+  exploring:  ["ZK-SNARK proofs", "AI-based Threat Intel", "IPFS decentralization"],
+  status:     "ACTIVE_FOR_HIRE"
 };
 ```
 
-I'm a passionate software engineer building secure, scalable, and decentralized solutions. From writing smart contracts on Ethereum to deploying serverless architectures on AWS and Google Cloud, I enjoy bridging the gap between innovative ideas and real-world execution. I'm also deeply committed to fostering tech education and digital literacy across Africa.
+I am a software security engineer specialized in designing decentralized architectures and carrying out smart contract audits. By combining modern cloud structures on AWS and Google Cloud with cryptography, I build software that bridges the gap between secure theory and functional deployment. I am also an active open-source contributor and mentor dedicated to bootstrapping development pipelines across West Africa.
 
 ---
 
-## 🚀 Featured Projects
+## 💾 ASCII Name Visualizer
 
-Here are some of the projects I've built and actively maintain:
+```text
+  ██████╗  ██████╗ ██╗  ██╗███╗   ██╗     ██████╗ ██╗  ██╗██╗   ██╗███████╗██████╗ ███████╗
+  ╚══██╔══╝██╔═══██╗██║  ██║████╗  ██║    ██╔═══██╗██║ ██╔╝╚██╗ ██╔╝██╔════╝██╔══██╗██╔════╝
+     ██║   ██║   ██║███████║██╔██╗ ██║    ██║   ██║█████╔╝  ╚████╔╝ █████╗  ██████╔╝█████╗  
+     ██║   ██║   ██║██╔══██║██║╚██╗██║    ██║   ██║██╔═██╗   ╚██╔╝  ██╔══╝  ██╔══██╗██╔══╝  
+     ██║   ╚██████╔╝██║  ██║██║ ╚████║    ╚██████╔╝██║  ██╗   ██║   ███████╗██║  ██║███████╗
+     ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝
+```
 
-<table>
+---
+
+## 🚀 Active Project Nodes
+
+<table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Novice Dev with AI</h3>
-      <p align="center">
-        <a href="https://github.com/mhiskall282/novice-dev-with-ai">
-          <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>An interactive, high-performance web dashboard and study classroom for junior developers. Features live HTML/CSS render previews, structural 5-part prompt templates, and curriculum progress maps.</p>
-      <p><strong>Stack:</strong> React 19 · Vite · Tailwind v4 · TypeScript · Markdown Parsers</p>
+      <div style="border: 1px solid #D21034; border-radius: 4px; padding: 15px; background: #07070a;">
+        <h3 style="color: #D21034; font-family: monospace; margin-top: 0; font-size: 14px;">⚡ [NODE_01: NOVICE_DEV_WITH_AI]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 50px;">High-performance developer dashboard and curriculum map featuring live interactive code renders, transition-buffered tabs, and custom prompt builders.</p>
+        <span style="color: #FCD116; font-size: 11px; font-family: monospace; font-weight: bold;">STATUS: COMPLETED | STACK: React 19 • Vite • TS</span>
+        <br/><br/>
+        <a href="https://github.com/mhiskall282/novice-dev-with-ai" style="color: #006B3F; font-family: monospace; text-decoration: none; font-weight: bold;">[SECURE_ACCESS_POINT_>]</a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💳 SaaS Billing Platform</h3>
-      <p align="center">
-        <a href="https://github.com/mhiskall282/saas-billing-platform">
-          <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>A cloud-native subscription billing and transactional backend service engineered for software-as-a-service platforms, supporting secure payment gateways and customer invoicing dashboards.</p>
-      <p><strong>Stack:</strong> Node.js · TypeScript · Stripe API · Express · PostgreSQL</p>
+      <div style="border: 1px solid #FCD116; border-radius: 4px; padding: 15px; background: #07070a;">
+        <h3 style="color: #FCD116; font-family: monospace; margin-top: 0; font-size: 14px;">⚡ [NODE_02: SAAS_BILLING_PLATFORM]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 50px;">Cloud-native subscription and transactional billing system engineered to process scalable user payments, integrations, and invoices.</p>
+        <span style="color: #006B3F; font-size: 11px; font-family: monospace; font-weight: bold;">STATUS: PRODUCTION | STACK: Node.js • Express • Stripe</span>
+        <br/><br/>
+        <a href="https://github.com/mhiskall282/saas-billing-platform" style="color: #D21034; font-family: monospace; text-decoration: none; font-weight: bold;">[SECURE_ACCESS_POINT_>]</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Google Hackathon Solution</h3>
-      <p align="center">
-        <a href="https://github.com/mhiskall282/google-hackathon">
-          <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>A specialized project built for the Google Hackathon, integrating Gemini LLMs and generative AI features into cloud-native automation flows and backend pipelines.</p>
-      <p><strong>Stack:</strong> Python · Gemini API · Google Cloud Platform · Docker</p>
+      <div style="border: 1px solid #006B3F; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px;">
+        <h3 style="color: #006B3F; font-family: monospace; margin-top: 0; font-size: 14px;">⚡ [NODE_03: GOOGLE_HACKATHON]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 50px;">AI integrations built during the Google Hackathon, connecting Gemini API endpoints to automated infrastructure operations.</p>
+        <span style="color: #D21034; font-size: 11px; font-family: monospace; font-weight: bold;">STATUS: ARCHIVED | STACK: Python • Gemini API • GCP</span>
+        <br/><br/>
+        <a href="https://github.com/mhiskall282/google-hackathon" style="color: #FCD116; font-family: monospace; text-decoration: none; font-weight: bold;">[SECURE_ACCESS_POINT_>]</a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 johnokyere.xyz</h3>
-      <p align="center">
-        <a href="https://github.com/mhiskall282/johnokyere.xyz">
-          <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>My official personal developer portfolio website, engineered to show my work, integrations, write-ups, and interactive cloud/blockchain projects.</p>
-      <p><strong>Stack:</strong> HTML5 · CSS3 · JavaScript · Cloudflare Pages</p>
+      <div style="border: 1px solid #8b949e; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px;">
+        <h3 style="color: #c9d1d9; font-family: monospace; margin-top: 0; font-size: 14px;">⚡ [NODE_04: PORTFOLIO_CORE]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 50px;">Official visual portfolio mapping cloud integrations, technical blog posts, interactive terminal components, and smart contract links.</p>
+        <span style="color: #006B3F; font-size: 11px; font-family: monospace; font-weight: bold;">STATUS: ONLINE | STACK: HTML5 • CSS3 • Cloudflare</span>
+        <br/><br/>
+        <a href="https://github.com/mhiskall282/johnokyere.xyz" style="color: #D21034; font-family: monospace; text-decoration: none; font-weight: bold;">[SECURE_ACCESS_POINT_>]</a>
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Inventory
 
 <div align="center">
 
-**Languages**
+**Core Coding Languages**
 <br/>
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -110,7 +148,7 @@ Here are some of the projects I've built and actively maintain:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web3 & Decentralization**
+**Web3 & Encryption Engine**
 <br/>
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
@@ -118,7 +156,7 @@ Here are some of the projects I've built and actively maintain:
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
-**Cloud & Infrastructure**
+**Cloud Core & Virtualization**
 <br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -126,7 +164,7 @@ Here are some of the projects I've built and actively maintain:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-**Backend & Databases**
+**Database Nodes & Frameworks**
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -139,11 +177,11 @@ Here are some of the projects I've built and actively maintain:
 
 ---
 
-## 📊 GitHub Insights
+## 📊 Analytics Feed
 
 <div align="center">
 
-<!-- Ghana Flag Themed Statistics: Red title, Gold icons, Green details/commits, dark background -->
+<!-- Ghana Flag Themed Statistics: Red title, Gold icons, Green details, black bg -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhiskall282&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=D21034&icon_color=FCD116&text_color=ffffff" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhiskall282&layout=compact&langs_count=7&hide_border=true&bg_color=000000&title_color=D21034&text_color=ffffff" />
 
@@ -159,19 +197,19 @@ Here are some of the projects I've built and actively maintain:
 
 ---
 
-## 🤝 Let's Connect
+## 📡 Transmission Channels
 
 <div align="center">
 
-I am open to **full-time opportunities**, **freelance contracts**, and **open-source collaboration**.  
-Whether you're building a decentralized protocol, scaling cloud infrastructure, or just want to chat — feel free to reach out!
+Open for **collaborations on DeFi, smart contract secure systems, and cloud deployments**.  
+Initiate protocol connection:
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-D21034?style=for-the-badge)](https://johnokyere.xyz)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-006B3F?style=for-the-badge)](https://linkedin.com/in/johnokyere)
-[![Email](https://img.shields.io/badge/📧%20Email-Say%20Hello-FCD116?style=for-the-badge&logoColor=black)](mailto:0xmhiskall@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Follow-000000?style=for-the-badge)](https://twitter.com/0xmhiskall)
+[![Portfolio](https://img.shields.io/badge/🌐_𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎-𝐃𝟐𝟏𝟎𝟑𝟒?style=for-the-badge)](https://johnokyere.xyz)
+[![LinkedIn](https://img.shields.io/badge/💼_𝐋𝐈𝐍𝐊𝐄𝐃𝐈𝐍-𝟎𝟎𝟔𝐁𝟑𝐅?style=for-the-badge)](https://linkedin.com/in/johnokyere)
+[![Email](https://img.shields.io/badge/📧_𝐄𝐌𝐀𝐈𝐋-𝐅𝐂𝐃𝟏𝟏𝟔?style=for-the-badge&logoColor=black)](mailto:0xmhiskall@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦_𝐓𝐖𝐈𝐓𝐓𝐄𝐑-𝟎𝟎𝟎𝟎𝟎𝟎?style=for-the-badge)](https://twitter.com/0xmhiskall)
 
 <br/>
 
@@ -181,11 +219,11 @@ Whether you're building a decentralized protocol, scaling cloud infrastructure, 
 
 <br/>
 
-**⭐ If any of my repos helped you or caught your eye — drop a star! It fuels more building. 🚀**
+**⭐ STAGING COMPLETED. DROP A STAR TO INITIATE PROTOCOL SYNC. 🚀**
 
 <br/>
 
-<!-- Footer waving banner in Ghana colors -->
+<!-- Footer waving banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=120&section=footer" />
 
 </div>
