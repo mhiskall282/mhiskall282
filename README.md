@@ -183,7 +183,7 @@ I am a software security engineer specialized in designing decentralized archite
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhiskall282&hide_border=true&background=000000&stroke=D21034&ring=FCD116&fire=006B3F&currStreakLabel=ffffff" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhiskall282&hide_border=true&background=000000&stroke=D21034&ring=FCD116&fire=006B3F&currStreakLabel=ffffff&currStreakNum=FCD116&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
 
 <br/>
 
